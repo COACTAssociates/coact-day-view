@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="12" fill="#23272f"/>
+  <g>
+    <path d="M20 40c0-8 4-12 12-12v-4c-8 0-16 4-16 16h4zm20 0c0-8 4-12 12-12v-4c-8 0-16 4-16 16h4z" fill="#fff" fill-opacity="0.85"/>
+    <text x="32" y="36" text-anchor="middle" font-size="22" font-family="Georgia, serif" fill="#fff" font-weight="bold" dy="0.35em">“</text>
+  </g>
+</svg>
