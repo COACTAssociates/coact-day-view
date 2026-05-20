@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "allowJs": true,
+    "jsx": "react"
+  },
+  "include": ["widgets/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
