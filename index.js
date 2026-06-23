@@ -15,9 +15,8 @@ const installationFields = () => [
   {
     name: "apiKey",
     label: "Rocketlane API Key",
-    type: "AUTH_API_KEY",
+    type: "TEXT",
     required: true,
-    secure: true,
   },
 ];
 
