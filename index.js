@@ -11,18 +11,8 @@ const widgets = [
   },
 ];
 
-const installationFields = () => [
-  {
-    name: "apiKey",
-    label: "Rocketlane API Key",
-    type: "TEXT",
-    required: true,
-  },
-];
-
 module.exports = {
   widgets,
   serverActions: [],
-  installationFields,
   version: "1.0.0",
 };
